@@ -1,0 +1,15 @@
+# Dependencias locales
+node_modules
+npm-debug.log
+yarn-error.log
+
+.DS_Store
+
+# Salida de compilación
+dist
+build
+
+# Archivos de editor/IDE
+.vscode
+.idea
+*.swp
